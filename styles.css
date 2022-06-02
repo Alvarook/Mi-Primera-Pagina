@@ -1,0 +1,38 @@
+h1 { 
+    font-size:xx-large;
+    font-family: sans-serif;
+    color:dodgerblue;
+}
+
+table {
+    background-image: url("https://www.serargentino.com/public/images/2020/02/trap-argentino-773x458.jpeg");
+    text-align: center;
+    color:blanchedalmond;
+    font-size: 24px;
+}
+td {
+    text-align: center;
+    color:blanchedalmond;
+    font-size: 60px
+}
+body {
+    color: aliceblue  ;
+    background-image: url("https://latidomusic.com/wp-content/uploads/2020/01/paulo-londra-trap-argentino3.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-color: gray;
+}
+h1.top, ul {
+    border-radius: 16px;
+    height: 30px;
+    width: 1000px;
+    background-color:black;
+}
+a {
+    border-radius: 16px;
+    height: 30px;
+    width: 1000px;
+    background-color:rgb(95, 93, 93);
+}
+
